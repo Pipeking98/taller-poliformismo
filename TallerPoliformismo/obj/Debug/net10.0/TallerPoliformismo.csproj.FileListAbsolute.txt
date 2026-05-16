@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\bin\Debug\net10.0\TallerPoliformismo.exe
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\bin\Debug\net10.0\TallerPoliformismo.deps.json
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\bin\Debug\net10.0\TallerPoliformismo.runtimeconfig.json
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\bin\Debug\net10.0\TallerPoliformismo.dll
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\bin\Debug\net10.0\TallerPoliformismo.pdb
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\obj\Debug\net10.0\TallerPoliformismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\obj\Debug\net10.0\TallerPoliformismo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\obj\Debug\net10.0\TallerPoliformismo.AssemblyInfo.cs
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\obj\Debug\net10.0\TallerPoliformismo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\obj\Debug\net10.0\TallerPoliformismo.dll
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\obj\Debug\net10.0\refint\TallerPoliformismo.dll
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\obj\Debug\net10.0\TallerPoliformismo.pdb
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\obj\Debug\net10.0\TallerPoliformismo.genruntimeconfig.cache
+C:\Users\User\source\repos\TallerPoliformismo\TallerPoliformismo\obj\Debug\net10.0\ref\TallerPoliformismo.dll
